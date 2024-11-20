@@ -5,23 +5,10 @@
     <classes>
       <class name="com.mvn.MainTest">
         <methods>
-          <include name="linksDetails"/>
           <include name="beforeTest"/>
-          <include name="radioButtonDetails"/>
           <include name="closeBrowser"/>
-          <include name="browserWindowsDetails"/>
           <include name="loadBrowser"/>
-          <include name="dynamicDetails"/>
           <include name="checkboxDetails"/>
-          <include name="framesDetails"/>
-          <include name="accordianDetails"/>
-          <include name="alertsDetails"/>
-          <include name="modalDiologsDetails"/>
-          <include name="uploadDownloadDetails"/>
-          <include name="buttonsDetails"/>
-          <include name="brokenlinksDetails"/>
-          <include name="formDetails"/>
-          <include name="webtableDetails"/>
         </methods>
       </class> <!-- com.mvn.MainTest -->
     </classes>
